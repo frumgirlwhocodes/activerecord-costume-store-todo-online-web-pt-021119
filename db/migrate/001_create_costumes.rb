@@ -9,3 +9,6 @@
 # value types according to the spec
 
 class CreateCostumes < ActiveRecord::Migration[5.1]
+  
+  
+end 
